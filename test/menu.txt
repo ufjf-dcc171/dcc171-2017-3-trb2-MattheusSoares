@@ -1,0 +1,9 @@
+9 Hambúrguer Pão,_bife_de_hambúrguer,_salada_e_batata_palha
+10 X_Burguer Pão,_bife_de_hambúrguer,_mussarela,_salada_e_batata_palha
+10.9 X_Salada Pão,_bife_e_hambúrguer,_mussarela,_presunto,_salada_e_batata_palha
+12.6 X_Egg Pão,_bife_de_hambúrguer,_mussarela,_presunto,_ovo,_salada_e_batata_palha
+14.7 X_Egg_Bacon Pão,_bife_de_hambúrguer,_mussarela,_presunto,_ovo,_bacon,_salada_e_batata_palha
+13.6 X_Egg_Milho Pão,_bife_de_hambúrguer,_mussarela,_presunto,_ovo,_milho_verde,_salada_e_batata_palha
+14 X_Bacon Pão,_bife_de_hambúrguer,_mussarela,_presunto,_bacon,_salada_e_batata_palha
+14.7 X_Bacon_Milho Pão,_bife_de_hambúrguer,_mussarela,_presunto,_bacon,_milho_verde,_salada_e_batata_palha
+15.4 X_Tudo Pão,_bife_de_hambúrguer,_mussarela,_presunto,_bacon,_ovo,_milho_verde,_salada_e_batata_palha          
